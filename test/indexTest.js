@@ -17,7 +17,7 @@ describe('index.js', function () {
   });
 
   describe('mostProfitableNeighborhood', function () {
-    it('is declared as equal to Chelsea', function () {
+    it('is declared as equal tomostProfitableNeighborhood', function () {
       expect(mostProfitableNeighborhood).to.equal('Chelsea');
     });
 
